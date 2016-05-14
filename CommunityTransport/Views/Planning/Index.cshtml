@@ -1,0 +1,24 @@
+﻿@model IEnumerable<GUI.Models.PlanningViewModels>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@if (Model != null)
+{
+    foreach (var item in Model)
+    {
+        @Html.Partial("_DisplayPlanning", item)
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\Domain.dll.config
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\Domain.dll
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\Domain.pdb
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\DHTMLX.dll
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\EntityFramework.dll
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\Mvc.Mailer.dll
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\DHTMLX.pdb
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\DHTMLX.xml
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\EntityFramework.xml
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\obj\Debug\Domain.dll
+C:\Users\afef\Documents\Visual Studio 2015\Projects\CommunityTransport\Domain\obj\Debug\Domain.pdb

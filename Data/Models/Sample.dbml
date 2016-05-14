@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="FilmaManagementDB" Class="SampleDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=FilmaManagementDB;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Data.Properties.Settings" SettingsPropertyName="FilmaManagementDBConnectionString" Provider="System.Data.SqlClient" />
+</Database>

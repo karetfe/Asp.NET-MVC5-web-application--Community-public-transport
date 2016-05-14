@@ -1,0 +1,20 @@
+﻿
+@model GUI.Models.PlanningViewModels
+
+<div>
+    <p> Title: @Model.title </p>
+    <br />
+    <p> Departure Date :@Model.heureDepart</p>
+    <br />
+    <p> City :@Model.city_fk</p>
+    <br />
+    <p>Driver :@Model.driver_fk</p>
+    <br />
+    <p>Transportation Mean :@Model.transportationMean_fk</p>
+    <br />
+    <p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) | @Html.ActionLink("Delete", "Delete", new { id = Model.id }) 
+    </p>
+    <hr />
+
+</div>

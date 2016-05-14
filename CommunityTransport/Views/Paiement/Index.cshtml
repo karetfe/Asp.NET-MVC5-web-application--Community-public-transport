@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Domain.Entities.paiement>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.codeCVV2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.confidentialCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.numberCarteBancaire)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.reference)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.codeCVV2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.confidentialCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.numberCarteBancaire)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.reference)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>
